@@ -1,0 +1,138 @@
+================================================================================
+TASK 1: RETENTION STRATEGY & RISK ASSESSMENT
+TechVantage Solutions — Director of Strategic Customer Relationships
+================================================================================
+
+--------------------------------------------------------------------------------
+1A. RISK INDICATOR SUMMARY (120–150 words)
+--------------------------------------------------------------------------------
+
+Analysis of CRM health data across all three strategic accounts reveals a
+converging set of retention risks that demand immediate attention. InnovateCorp
+Manufacturing presents the most acute danger: a measurable usage plateau over
+the past quarter, compounded by the departure of our primary internal champion,
+has eroded relationship continuity and left renewal momentum stalled. Satisfaction
+scores have dipped below the 7.0 threshold, and competitive outreach has been
+detected. GrowthDynamics Retail, while operationally healthy, faces an external
+threat — at least two competitors are actively pursuing the account, exploiting
+gaps in our multi-location scalability narrative during a critical growth phase.
+FinancialFirst Services signals declining satisfaction driven by unmet compliance
+workflow needs, a risk amplified by new regulatory demands that our current
+configuration does not fully address. Across all three accounts, stakeholder
+alignment gaps and unresolved functional pain points represent the highest-
+priority churn drivers requiring immediate, coordinated action.
+
+--------------------------------------------------------------------------------
+1B. COPILOT-STYLE RETENTION RECOMMENDATIONS (6 items)
+--------------------------------------------------------------------------------
+
+[ INNOVATECORP MANUFACTURING ]
+
+  ▸ RECOMMENDATION 1
+    Account Name    : InnovateCorp Manufacturing
+    Recommended Action : Schedule a structured Executive Alignment Session with
+                         the new CTO and CFO within 14 days. Use Dynamics 365
+                         account timeline data and Copilot-generated stakeholder
+                         briefings to re-establish strategic context, present a
+                         digital transformation roadmap, and formally re-anchor
+                         executive sponsorship before the renewal window opens.
+    Risk Addressed  : Champion departure and loss of executive relationship
+                      continuity threatening contract renewal.
+    Expected Relationship Impact : Restores C-level trust, re-establishes
+                      TechVantage as a strategic partner rather than a vendor,
+                      and creates a foundation for the $400K–$800K expansion
+                      conversation within the same engagement cycle.
+
+  ▸ RECOMMENDATION 2
+    Account Name    : InnovateCorp Manufacturing
+    Recommended Action : Deploy a targeted Usage Recovery Plan — leverage Copilot
+                         usage analytics within Dynamics 365 to identify which
+                         platform modules have seen declining adoption, then
+                         coordinate with the Customer Success team to deliver
+                         two role-specific enablement workshops for Operations
+                         Director stakeholders within 30 days.
+    Risk Addressed  : Usage plateau reducing perceived platform value and
+                      increasing vulnerability to competitive displacement.
+    Expected Relationship Impact : Increases platform stickiness, demonstrates
+                      proactive partnership investment, and directly improves
+                      health score metrics ahead of renewal — shifting internal
+                      perception from "underutilized tool" to "operational asset."
+
+------
+
+[ GROWTHDYNAMICS RETAIL ]
+
+  ▸ RECOMMENDATION 3
+    Account Name    : GrowthDynamics Retail
+    Recommended Action : Deliver a personalized Multi-Location Scaling Proposal
+                         to the Founder/CEO and VP Operations within 10 business
+                         days. Use Copilot to synthesize comparable retail
+                         expansion case studies from the CRM knowledge base and
+                         build a data-backed ROI model demonstrating TechVantage's
+                         proven capability to support rapid, multi-site rollouts.
+    Risk Addressed  : Competitor pursuit exploiting a perceived gap in
+                      TechVantage's scalability narrative during active growth.
+    Expected Relationship Impact : Positions TechVantage as the only partner with
+                      a ready-made, evidence-based expansion playbook — reducing
+                      competitor appeal and accelerating the path to a $600K
+                      multi-location agreement.
+
+  ▸ RECOMMENDATION 4
+    Account Name    : GrowthDynamics Retail
+    Recommended Action : Initiate a bi-weekly cadence of strategic check-in calls
+                         with the IT Manager, structured around a shared success
+                         scorecard built in Dynamics 365. Use Copilot to auto-
+                         generate pre-call briefings and post-call action item
+                         summaries, ensuring every touchpoint reinforces momentum
+                         and demonstrates organizational responsiveness.
+    Risk Addressed  : Shallow relationship depth with operational stakeholders,
+                      creating an opening for competitors to build internal
+                      advocacy during a critical decision window.
+    Expected Relationship Impact : Builds a multi-threaded internal champion
+                      network beyond the Founder, ensuring that positive sentiment
+                      exists at the implementation level and reducing the risk of
+                      a top-down competitive displacement decision.
+
+------
+
+[ FINANCIALFIRST SERVICES ]
+
+  ▸ RECOMMENDATION 5
+    Account Name    : FinancialFirst Services
+    Recommended Action : Convene a Compliance Needs Discovery Workshop with the
+                         Chief Compliance Officer and Head of Technology within
+                         21 days. Use Dynamics 365 case history and Copilot-
+                         generated sentiment analysis from support tickets to
+                         arrive prepared with a documented gap assessment and a
+                         preliminary regulatory suite roadmap tailored to their
+                         current compliance landscape.
+    Risk Addressed  : Declining satisfaction driven by unmet compliance workflow
+                      requirements, creating urgency risk as new regulatory
+                      deadlines approach.
+    Expected Relationship Impact : Demonstrates that TechVantage listens,
+                      responds, and anticipates — converting a dissatisfied
+                      stakeholder into an engaged co-designer of the solution,
+                      while building the business case for the $350K–$500K
+                      regulatory suite expansion.
+
+  ▸ RECOMMENDATION 6
+    Account Name    : FinancialFirst Services
+    Recommended Action : Assign a dedicated Technical Account Manager to
+                         FinancialFirst Services and establish a formalized
+                         Quarterly Business Review (QBR) cadence. Leverage
+                         Copilot within Dynamics 365 to auto-generate QBR
+                         decks populated with account-specific usage metrics,
+                         compliance milestone tracking, and mutual success KPIs
+                         agreed upon with the Account Manager stakeholder.
+    Risk Addressed  : Declining satisfaction score and perception of insufficient
+                      post-sale support investment across a two-year relationship.
+    Expected Relationship Impact : Signals a strategic elevation of the
+                      partnership, rebuilds confidence in TechVantage's long-term
+                      commitment, and creates a recurring, structured forum to
+                      surface and resolve issues before they escalate to churn
+                      risk — directly supporting the company's retention target
+                      increase from 78% to 90%.
+
+================================================================================
+END OF TASK 1
+================================================================================
